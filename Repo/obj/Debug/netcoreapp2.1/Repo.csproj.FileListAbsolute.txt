@@ -1,0 +1,16 @@
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Repo.deps.json
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Repo.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Repo.pdb
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.csprojAssemblyReference.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.csproj.CoreCompileInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.AssemblyInfoInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.AssemblyInfo.cs
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.csproj.CopyComplete
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Repo\obj\Debug\netcoreapp2.1\Repo.pdb

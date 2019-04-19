@@ -1,0 +1,8 @@
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\bin\Debug\netcoreapp2.1\Rule.deps.json
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\bin\Debug\netcoreapp2.1\Rule.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\bin\Debug\netcoreapp2.1\Rule.pdb
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\obj\Debug\netcoreapp2.1\Rule.csproj.CoreCompileInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\obj\Debug\netcoreapp2.1\Rule.AssemblyInfoInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\obj\Debug\netcoreapp2.1\Rule.AssemblyInfo.cs
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\obj\Debug\netcoreapp2.1\Rule.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Rule\obj\Debug\netcoreapp2.1\Rule.pdb

@@ -1,0 +1,8 @@
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\raziye.ataseven\source\repos\WebApi\Core\obj\Debug\netcoreapp2.1\Core.pdb
